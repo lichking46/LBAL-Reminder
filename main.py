@@ -144,7 +144,6 @@ class LBAL:
                     self.add_clink(i, j, c)
         
         for i in self.all:
-            if i.endswith("_essence"): i=i[:-8]
             addi = self.all[i].get("addi", [])
             addg = self.all[i].get("addg", [])
             if i.endswith("_essence"):
