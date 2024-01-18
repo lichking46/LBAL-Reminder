@@ -1029,7 +1029,8 @@
     "rarity": "essence",
     "groups": [
       "essence"
-    ]
+    ],
+    "active_in_discard": false
   },
   "triple_coins_essence": {
     "values": [

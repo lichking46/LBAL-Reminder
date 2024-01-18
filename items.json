@@ -692,7 +692,8 @@
     ],
     "rarity": "common",
     "groups": [],
-    "addi" : ["diamonds","hearts"]
+    "addi" : ["diamonds","hearts"],
+    "active_in_discard": false
   },
   "reroll": {
     "values": [
@@ -856,7 +857,8 @@
     ],
     "rarity": "common",
     "groups": [],
-    "linki": ["turtle", "rabbit"]
+    "linki": ["turtle", "rabbit"],
+    "active_in_discard": false
   },
   "undertaker": {
     "values": [],

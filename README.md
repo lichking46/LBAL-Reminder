@@ -49,7 +49,7 @@ That links `archaeologist` to everything in `archlikes` group, that is `pearl`, 
     }
 }
 ```
-That treats `bar_of_soap` as if they were `bubble`. It links `bar_of_soap` to everything linked to `bubble`, (`goldfish` and `toddler`), but not necessarily link it to `bubble`. Often used if a symbol can produce another symbol. This relationship is directional, and will not treat `bar_of_soap` as `bubble`.
+That treats `bar_of_soap` as if they were `bubble`. It links `bar_of_soap` to everything linked to `bubble`, (`goldfish` and `toddler`), but not necessarily link it to `bubble`. Often used if a symbol can produce another symbol. This relationship is directional, and will not treat `bubble` as `bar_of_soap`.
 
 ### addg
 ```
